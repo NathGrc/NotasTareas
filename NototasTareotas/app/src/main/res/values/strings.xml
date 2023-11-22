@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notas y Tareas</string>
+    <string name="create_note">Crear Nota</string>
+    <string name="add_photo">Agregar foto</string>
+    <string name="photo_notes">Notas y Tareas</string>
+    <string name="delete_note">Borrar Notas</string>
+    <string name="edit_note">Editar Nota</string>
+    <string name="save_note">Guardar Nota</string>
+    <string name="clear_search">Limpiar Busqueda</string>
+    <string name="add_image">Agregar Imagen</string>
+    <string name="add_video">Agregar Video</string>
+    <string name="add_audio">Agregar Audio</string>
+    <string name="foto_notas">NOTAS Y TAREAS</string>
+</resources>
